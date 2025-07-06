@@ -37,10 +37,11 @@ PyNite-based summary report: displacements, reaction forces, and warnings
 
 A project developed by:
 
--Sahil Youssaf
--Nihal Mannath
--Eleftheria Papadosifou
--Kacper Wasilewski
+- Sahil Youssaf
+- Eleftheria Papadosifou
+- Kacper Wasilewski
+- Nihal Mannath
+
 
 Developed as part of the Master in AI for Architecture & the Built Environment 2024–25, during the 2nd and 3rd term research studio.
 Institution: IAAC – Institute for Advanced Architecture of Catalonia
